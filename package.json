@@ -1,7 +1,7 @@
 {
   "name": "@ancient-legion/mod-api",
   "private": false,
-  "version": "0.20.0",
+  "version": "0.21.0",
   "description": "Typing for mod api",
   "main": "index.ts",
   "repository": "https://github.com/ancient-legion/mod-api.git",
