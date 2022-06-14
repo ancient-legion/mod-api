@@ -7,6 +7,7 @@
   "repository": "https://github.com/ancient-legion/mod-api.git",
   "author": "Yuuki Wesp <ivysola@0xf6.moe>",
   "license": "MIT",
+  "typings": "index.d.ts",
   "peerDependencies": {
     "@types/node": "*"
   },
